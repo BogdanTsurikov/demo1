@@ -1,4 +1,4 @@
-package practic03;
+package lesson03.homework03.practic03;
 
 public class Calculator {
 

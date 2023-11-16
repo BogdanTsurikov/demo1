@@ -1,6 +1,4 @@
-package practic03;
-
-import practic03.Calculator;
+package lesson03.homework03.practic03;
 
 public class CalculatorDemo {
     public static void main(String[] args) {
