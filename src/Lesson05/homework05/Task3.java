@@ -7,10 +7,11 @@ public class Task3 {
         int pizza = 24;
         int pizza1 = 28;
         int call = 40;
-        double result =(double) call / pizza;
-        double result1 = (double) call / pizza1;
+        int result = (pizza1 - pizza) * call;
         System.out.println(result);
-        System.out.println(result1);
+
+
+
 
 
     }
